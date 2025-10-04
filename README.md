@@ -32,3 +32,11 @@ Rule breakdown:
 
 Result: This rule generates an alert whenever Suricata identifies an HTTP GET request originating from the internal network to an external destination.
 
+2. Trigger a Custom Rule
+
+Executed Suricata using the sample network traffic:
+<img width="951" height="236" alt="Screenshot 2025-10-04 at 18 42 26" src="https://github.com/user-attachments/assets/5e1d2a0d-904f-43f5-aa26-b98356993b3f" />
+Note: Before running Suricata, there were zero files in the /var/log/suricata directory. After running Suricata, we have four new files in the directory including the fast.log and eve.json files. These are logs that we will now examine.
+
+
+
