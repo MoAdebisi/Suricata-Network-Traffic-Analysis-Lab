@@ -46,7 +46,7 @@ Result: We see that the custom rule successfully triggered alerts from traffic i
    
 Displayed detailed Suricata logs:
 
-<img width="943" height="284" alt="Screenshot 2025-10-04 at 18 54 15" src="https://github.com/user-attachments/assets/44ff9c22-f81a-42e7-af0e-d35d9af7dec4" 
+<img width="943" height="284" alt="Screenshot 2025-10-04 at 18 54 15" src="https://github.com/user-attachments/assets/44ff9c22-f81a-42e7-af0e-d35d9af7dec4" />
 
   For better readability:
 <img width="942" height="874" alt="Screenshot 2025-10-04 at 18 55 49" src="https://github.com/user-attachments/assets/6c655dd4-663d-44a6-8cd0-0144b991c860" />
